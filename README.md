@@ -1,7 +1,9 @@
 Social Media Feed Sorting Algorithm
 
 Language: Python3
+
 Programming Style: Object-Oriented Programming
+
 Topics: data structures and algorithms, sorting
 
 This project is about sorting a social media feed. Each post has attributes such as content type, engagement score and timestamp.
